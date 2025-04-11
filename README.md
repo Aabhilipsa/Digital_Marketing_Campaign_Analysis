@@ -38,5 +38,5 @@ Using the features given in the data set, we can also perform feature engineerin
 - **CPM (Cost per Mille)**: It is a metric that represents the cost of displaying an ad to 1,000 people. In other words, it measures how much a business pays for every 1,000 ad impressions.
 - **Cost per click (CPC)**: It is a metric that represents the cost of getting a user to click on an ad. It measures how much a business pays for every click on their ad.
 - **Click-through rate (CTR)**: It is a metric that represents the percentage of users who click on an ad after seeing it. It measures the effectiveness of an ad in getting users to click through to a website or landing page.
-- **CPA (Cost per Acquisition/Action)**: It is a metric that represents the cost of acquiring a new customer through an ad campaign. It measures how much a business pays for every new customer acquired through their ad.
+- **CPA/CAC(Cost per Acquisition/Action)**: It is a metric that represents the cost of acquiring a new customer through an ad campaign. It measures how much a business pays for every new customer acquired through their ad.
 
